@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:catmanney/react-try.git/static/css/main.7a98b3c1.chunk.css",
+    "main.js": "/git@github.com:catmanney/react-try.git/static/js/main.b9364821.chunk.js",
+    "main.js.map": "/git@github.com:catmanney/react-try.git/static/js/main.b9364821.chunk.js.map",
+    "runtime-main.js": "/git@github.com:catmanney/react-try.git/static/js/runtime-main.eac612b1.js",
+    "runtime-main.js.map": "/git@github.com:catmanney/react-try.git/static/js/runtime-main.eac612b1.js.map",
+    "static/js/2.9a0d093d.chunk.js": "/git@github.com:catmanney/react-try.git/static/js/2.9a0d093d.chunk.js",
+    "static/js/2.9a0d093d.chunk.js.map": "/git@github.com:catmanney/react-try.git/static/js/2.9a0d093d.chunk.js.map",
+    "static/js/3.0d226a6d.chunk.js": "/git@github.com:catmanney/react-try.git/static/js/3.0d226a6d.chunk.js",
+    "static/js/3.0d226a6d.chunk.js.map": "/git@github.com:catmanney/react-try.git/static/js/3.0d226a6d.chunk.js.map",
+    "index.html": "/git@github.com:catmanney/react-try.git/index.html",
+    "static/css/main.7a98b3c1.chunk.css.map": "/git@github.com:catmanney/react-try.git/static/css/main.7a98b3c1.chunk.css.map",
+    "static/js/2.9a0d093d.chunk.js.LICENSE.txt": "/git@github.com:catmanney/react-try.git/static/js/2.9a0d093d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac612b1.js",
+    "static/js/2.9a0d093d.chunk.js",
+    "static/css/main.7a98b3c1.chunk.css",
+    "static/js/main.b9364821.chunk.js"
+  ]
+}
